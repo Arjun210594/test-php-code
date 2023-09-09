@@ -4,7 +4,7 @@
 <h1>my first php page </h1>
 
 <?php
-echo "hello world from S2I test first time version v1 "
+echo "hello unnati from S2I test version v1.2 "
   
 ?>
 </body>
